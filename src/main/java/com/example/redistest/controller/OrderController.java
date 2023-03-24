@@ -47,6 +47,7 @@ public class OrderController {
         System.out.println("master conflict test");
         System.out.println("hotfix conflict test");
         System.out.println("push test");
+        System.out.println("pull test");
         return "hello";
     }
 
