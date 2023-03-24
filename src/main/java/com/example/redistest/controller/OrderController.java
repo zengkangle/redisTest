@@ -44,6 +44,7 @@ public class OrderController {
         System.out.println("hh");
         System.out.println("hhgit");
         System.out.println("hhgit hot-fix");
+        System.out.println("hotfix conflict test");
         return "hello";
     }
 
