@@ -42,6 +42,7 @@ public class OrderController {
     @GetMapping(value = "/b")
     public String ggb(){
         System.out.println("hh");
+        System.out.println("hhgit");
         return "hello";
     }
 
